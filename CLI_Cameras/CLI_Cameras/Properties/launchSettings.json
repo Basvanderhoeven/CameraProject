@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CLI_Cameras": {
+      "commandName": "Project",
+      "commandLineArgs": "--NAmE Neude"
+    }
+  }
+}

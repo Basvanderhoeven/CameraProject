@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xujMDAHB5VKz5gPPYdQLf6fxSmWszCDqXcQvyQK161Pp0G9HESGu2s4SPiAiXiQ1LW/LsxHhcj3Ze2L5qwlKqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bas\\Documents\\Projecten\\iChoosr\\CLI_Cameras\\CLI_Cameras\\CLI_Cameras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
